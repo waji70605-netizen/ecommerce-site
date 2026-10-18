@@ -1,0 +1,500 @@
+[
+{
+	"_id" : "636a3dfe8e793faeb29f9dbe",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Trousers",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/33/98/46/3398464a33c0c8f0b51d26674d3adbe6.jpg"
+},
+{
+	"_id" : "636a3d988e793faeb29f9dba",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Jeans",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/71/c4/c1/71c4c1ad17dc067a11eeef47dbcd2312.jpg"
+},
+
+{
+	"_id" : "636a3d458e793faeb29f9db6",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Activewear",
+	"description" : "M",
+    "img" :"https://images.unsplash.com/photo-1621951753015-740c699ab970?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+},
+
+{
+	"_id" : "636a3cdd8e793faeb29f9db2",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Skirts",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/aa/63/e6/aa63e625cf332bfa20b43960c6ca7bda.jpg"
+},
+
+{
+	"_id" : "636a3c818e793faeb29f9dae",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Tops",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/7d/dd/14/7ddd14fcb3450e23a94150eab8a7fa4e.jpg"
+},
+
+{
+	"_id" : "636a3c068e793faeb29f9daa",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jumpers",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/21/8e/fb/218efb636de07b842412f8143e90a757.jpg"
+},
+
+{
+	"_id" : "636a3bb68e793faeb29f9da6",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Masks",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/b2/31/ef/b231efa920665852af08a255457c1f62.jpg"
+},
+
+{
+	"_id" : "636a3b5d8e793faeb29f9da2",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Shoes",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/04/6f/d4/046fd4e13d6504d5df1ab5a7c6f0ccad.jpg"
+},
+
+{
+	"_id" : "636a3af58e793faeb29f9d9e",
+	"price" : 400,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jewellery",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/10/59/2e/10592ef85db676e6e806bd93f07dbac5.jpg"
+},
+
+{
+	"_id" : "636a3a8f8e793faeb29f9d9b",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Swimwear",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/7b/9c/23/7b9c2390a4e06abdb37d8c4e2143f47a.jpg"
+},
+
+{
+	"_id" : "636a34048e793faeb29f9d98",
+	"price" : 250,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Hair Accessories ",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/22/81/58/22815850caac51613b8366ee568056f5.jpg"
+},
+
+{
+	"_id" : "636a33ae8e793faeb29f9d95",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"name" : "Baby Boy Costumes ",
+	"description" : "S",
+	"category" : "Trousers",
+    "img" :"https://i.pinimg.com/736x/a9/69/6f/a9696ffaf72e3f88224f16b0388d83c8.jpg"
+},
+
+{
+	"_id" : "636a329f8e793faeb29f9d92",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Baby Costumes",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/4f/4d/01/4f4d0155c1a2c9c9ea5b63ebc8e318ca.jpg"
+},
+
+{
+	"_id" : "636a2db88e793faeb29f9d8e",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Nightwear",
+	"description" : "L ",
+    "img" :"https://i.pinimg.com/736x/6f/9d/ae/6f9dae308aa9947a5435f42f94fb668d.jpg"
+},
+
+{
+	"_id" : "636a2ca28e793faeb29f9d8a",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Belts",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/3a/07/9b/3a079bea98cd1815fcb4650c3f69c67a.jpg"
+},
+
+{
+	"_id" : "636a2c298e793faeb29f9d86",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Teen Girl Jeans",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/76/01/17/7601172dd27b9975f73996332df6e894.jpg"
+},
+
+{
+	"_id" : "636a2b838e793faeb29f9d82",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Baby Boy Accessories",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/64/e1/d2/64e1d292fdbee6cba52e37d42f7bed59.jpg"
+},
+
+{
+	"_id" : "636a2af18e793faeb29f9d7e",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Hoodies",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/f8/45/c2/f845c2c48547148700c4ba1496f17689.jpg"
+},
+
+{
+	"_id" : "636a2a7f8e793faeb29f9d7a",
+	"price" : 900,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jewellery ",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/8f/84/de/8f84deea281b1c22e9e6c9cefd18ae85.jpg"
+},
+
+{
+	"_id" : "636a24ab8e793faeb29f9d76",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"description" : "L",
+	"name" : "Tie",
+    "img" :"https://i.pinimg.com/736x/fc/cd/39/fccd399110461ea8292db2a823048bb2.jpg"
+},
+
+{
+	"_id" : "636a210c8e793faeb29f9d72",
+	"price" : 1500,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Suits",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/c2/e8/d0/c2e8d0ea3b439ce8e5b335985b712870.jpg"
+},
+
+{
+	"_id" : "636a20a08e793faeb29f9d6f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Boots",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/20/42/2d/20422d6178b39383fca0f55e627e743f.jpg"
+},
+
+{
+	"_id" : "636a203c8e793faeb29f9d6c",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "watch",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/ba/15/f8/ba15f89a1c1f3a48e169ef4f4c4bb64f.jpg"
+},
+
+{
+	"_id" : "636a1fc78e793faeb29f9d69",
+	"price" : 900,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "bracelets",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/1d/3e/8b/1d3e8becd40dd72d0849a01ad80f3392.jpg"
+},
+
+{
+	"_id" : "636a1f6b8e793faeb29f9d66",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "rings",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/40/14/64/40146408f6a0662fa9a350dd4b6dcc5f.jpg"
+},
+
+{
+	"_id" : "636a10cc8e793faeb29f9d5f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Trainers",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/95/04/28/950428d8f56b02bebb5d0d05264bd7ad.jpg"
+},
+
+{
+	"_id" : "636a0ebc8e793faeb29f9d5b",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Shorts",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/66/e7/ef/66e7efdf909cb9cd6020368065712234.jpg"
+},
+
+{
+	"_id" : "636a0e518e793faeb29f9d57",
+	"price" : 150,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Socks",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/99/1b/90/991b90640a1d2a12fb8a0a4ebde24989.jpg"
+},
+
+{
+	"_id" : "636a0df68e793faeb29f9d53",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Nightwear",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/d4/05/56/d40556c41f5491a918c4f7fad568b94d.jpg"
+},
+
+{
+	"_id" : "636a0d6c8e793faeb29f9d4f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Baby Swimwear",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/31/c6/d3/31c6d3a13510cae26c05b22e178c52ca.jpg"
+},
+
+{
+	"_id" : "636a0ca18e793faeb29f9d4b",
+	"price" : 1200,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Hoodies",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/f1/15/71/f1157136a3af32f19cd7b950e36c915c.jpg"
+},
+
+{
+	"_id" : "636a0b848e793faeb29f9d47",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Baby Sunglasses ",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/ad/34/9e/ad349e3a1d03c0ec7ddc40848f0718f9.jpg"
+},
+
+{
+	"_id" : "636a0b128e793faeb29f9d43",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Bags",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/57/7d/96/577d969b8e540493cb05cd02c43ed7ca.jpg"
+},
+
+{
+	"_id" : "636a0a978e793faeb29f9d3f",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jewellery ",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/47/79/3d/47793d4565992e225d461b687a8ea8ee.jpg"
+},
+
+{
+	"_id" : "636a0a208e793faeb29f9d3c",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Suits",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/1b/0f/a1/1b0fa16f3aca3bec8740bb42e8266c02.jpg"
+},
+
+{
+	"_id" : "636a09bf8e793faeb29f9d39",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Loafers",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/55/c1/34/55c1340aa6087b62bf463a22356ff8c5.jpg"
+},
+
+{
+	"_id" : "636a09288e793faeb29f9d36",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Kimonos",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/e8/f6/2f/e8f62f3c82e23f19b1953a1a3925d917.jpg"
+},
+
+{
+	"_id" : "636a08a88e793faeb29f9d33",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "shoes ",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/00/c8/89/00c8897e014800adb6bbc2d783c50ce2.jpg"
+},
+
+{
+	"_id" : "636a08608e793faeb29f9d30",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Shoes",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/d1/9b/41/d19b41cf6f8f498ab121e053bae2c38f.jpg"
+},
+
+{
+	"_id" : "636a07ff8e793faeb29f9d2d",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Jeans",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/d3/2a/f8/d32af82042b24fc99ca5028e22fb587e.jpg"
+},
+
+{
+	"_id" : "636a06448e793faeb29f9d27",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Jumpers",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/a2/97/2e/a2972e7495b49d595c21e0dde7d58739.jpg"
+},
+
+{
+	"_id" : "636a05d28e793faeb29f9d23",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Shirts",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/a7/68/bd/a768bd1075ca51265203caeb14390947.jpg"
+},
+
+{
+	"_id" : "636a055d8e793faeb29f9d1f",
+	"price" : 1200,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Loungewear",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/02/a4/18/02a418cfbad70905c8c36204b9427611.jpg"
+},
+
+{
+	"_id" : "636a04c08e793faeb29f9d1b",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "T-Shirts",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/60/73/1e/60731e95b02efabcbd75a28e603a6981.jpg"
+},
+
+{
+	"_id" : "636a04348e793faeb29f9d17",
+	"price" : 350,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Girls Hats",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/03/1c/cc/031ccc5dabf45554021af88ab6922349.jpg"
+},
+
+{
+	"_id" : "6369fe578e793faeb29f9d13",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Sunglasses",
+	"description" : "M",
+    "img" :"https://i.pinimg.com/736x/3d/bf/a3/3dbfa3e94191bac14cf9734316ca3f25.jpg"
+},
+
+{
+	"_id" : "6369fce88e793faeb29f9d0f",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Belts",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/9a/69/35/9a6935a655adb92b017fc29f415047c3.jpg"
+},
+
+{
+	"_id" : "6369fc198e793faeb29f9d0b",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Sleepwear",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/e6/1a/de/e61adeac4d4e8c193a133d65da8d9cf7.jpg"
+},
+
+{
+	"_id" : "6369fb398e793faeb29f9d07",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Jackets ",
+	"description" : "L",
+    "img" :"https://i.pinimg.com/736x/b8/3c/ee/b83cee29e66172b4e4135e03cb3e7acd.jpg"
+},
+
+{
+	"_id" : "6369fa568e793faeb29f9d03",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Costumes",
+	"description" : "S",
+    "img" :"https://i.pinimg.com/736x/b4/f9/1f/b4f91fadac219009275cef302ef15eee.jpg"
+}
+]

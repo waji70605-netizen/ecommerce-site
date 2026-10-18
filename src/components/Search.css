@@ -1,0 +1,56 @@
+.container{
+  padding: 15px;
+  padding-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  text-align: center;
+
+  }
+ .card{
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+ }
+ .image {
+  width: 100%;
+  height: 200px;  
+  object-fit: contain;
+  display: block;
+}
+.name {
+  font-size: 22px;
+    color: #222;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+
+.category {
+  font-size: 16px;
+  color: #777;
+  margin: 8px 0;
+  text-transform: capitalize;
+}
+
+.price {
+  font-size: 20px;
+  color:  #3204ff;
+  margin: 8px 0;
+  font-weight: bold;
+}
+
+
+.stock {
+  font-size: 16px;
+  color:rgb(0, 0, 0);
+  margin: 8px 0;
+}
+
+
+.description {
+  font-size: 14px;
+  color: #000000;
+  line-height: 1.6;
+  margin-top: 12px;
+}
